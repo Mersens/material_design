@@ -9,8 +9,9 @@
 ![image](https://github.com/Mersens/material_design/blob/master/image/QQ%E5%9B%BE%E7%89%8720160227144820.png)<br/>
 ![image](https://github.com/Mersens/material_design/blob/master/image/QQ%E5%9B%BE%E7%89%8720160227144829.png)<br/>
 
- 资源连接<br/>
+ Material Design开源项目资源连接<br/>
 ----------------------------------- 
-1.[Material Design开源项目1](http://www.androidchina.net/1381.html)<br /> 
-2.[Material Design开源项目2](http://www.tuicool.com/articles/fEnEZr)<br /> 
+
+1.[http://www.androidchina.net/1381.html](http://www.androidchina.net/1381.html)<br /> 
+2.[http://www.tuicool.com/articles/fEnEZr](http://www.tuicool.com/articles/fEnEZr)<br /> 
 
