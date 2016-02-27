@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.material_design_test.MainActivity" >
+  <item android:id="@+id/action_search"
+        android:orderInCategory="80"
+        android:title="搜索"
+        android:icon="@drawable/abc_ic_search_api_mtrl_alpha"
+        app:showAsAction="ifRoom" />
+ 
+  <item android:id="@+id/action_notifications"
+        android:orderInCategory="90"
+        android:title="通知"
+        android:icon="@drawable/ic_notifications"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="设置"
+        app:showAsAction="never"/>
+        <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="关于"
+        app:showAsAction="never"/>
+
+</menu>
